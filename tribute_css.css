@@ -1,0 +1,46 @@
+#main {
+  font-family: Arial, sans-serif;
+  color: #292727;
+}
+
+h1 {
+  width: 100%;
+  text-align: center;
+
+}
+
+p {
+  font-size: 16px;
+  width: 100%;
+  text-align: center;
+}
+
+#main {
+  background-color: #eae5e4;
+}
+
+#img-div {
+  display: flex;
+  background-color: white;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#image {
+  max-width: 90%;
+}
+
+#tribute-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-text:center;
+}
+
+#list {
+  width:50%;
+  text-align: justify;
+  line-height: 30px;
+}
